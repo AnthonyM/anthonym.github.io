@@ -25,3 +25,8 @@ github_username:  AnthonyM
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
+gems:
+	jekyll-theme
+exclude:
+	Gemfile
+	Gemfile.lock
